@@ -28,9 +28,9 @@ O projeto está organizado para refletir as diferentes etapas do desenvolvimento
 
 ## 📝 Funcionalidades Principais
 
-- [ ] Gerenciamento de usuários/alunos.
-- [ ] Painel Administrativo (conforme indicado pelo arquivo `senha adm`).
-- [ ] loja de produtos.
+* Gerenciamento de usuários/alunos.
+* Painel Administrativo (conforme indicado pelo arquivo `senha adm`).
+* loja de produtos.
 
 ---
 
