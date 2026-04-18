@@ -1,4 +1,4 @@
-# Projeto Techfit
+# Projeto Academia Techfit
 
 Este repositório contém o desenvolvimento do projeto **Techfit**, uma aplicação voltada para gestão de academia. <br>
 Abrange desde a concepção da base de dados até a implementação da lógica de negócio e interface. <br>
